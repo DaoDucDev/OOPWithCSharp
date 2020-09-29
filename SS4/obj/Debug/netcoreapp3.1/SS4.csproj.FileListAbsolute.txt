@@ -1,0 +1,13 @@
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.exe
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.deps.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.runtimeconfig.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.runtimeconfig.dev.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\bin\Debug\netcoreapp3.1\SS4.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.csprojAssemblyReference.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.AssemblyInfoInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.AssemblyInfo.cs
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.csproj.CoreCompileInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS4\obj\Debug\netcoreapp3.1\SS4.genruntimeconfig.cache
