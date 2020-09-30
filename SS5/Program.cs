@@ -6,7 +6,21 @@ namespace SS5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Student std = new Student();
+
+            // std.name = "Dao Van Duc";
+            // std.SayHello();
+
+            Employee emp = new Employee();
+            emp.name = "Dao Van Duc";
+            emp.SayHello(28);
+            // emp.name = "Dao Van Duc";
+            // emp.age = 28;
+            
+            // Console.WriteLine(emp.ShowInfo());
+
+            int a = 5;
+            a.ToString();
         }
     }
 }
