@@ -16,10 +16,26 @@ namespace SS4
             // std1.Name = Console.ReadLine();
             // std1.SayHello();
 
-            Cat newCat = new Cat();
+            // Cat newCat = new Cat();
             // newCat.Name = "Mỡ";
 
             // newCat.Run();
+
+            Rectangle rec1 = new Rectangle();
+            
+            Console.Write("width     : ");
+            rec1.setWidth(Int32.Parse(Console.ReadLine()));
+
+            Console.Write("height    : ");
+            rec1.setHeight(Int32.Parse(Console.ReadLine()));
+
+            Console.WriteLine("Area     : {0}", rec1.getArea());
+            Console.WriteLine("Perimeter: {0}", rec1.getPerimiter());
+            rec1.display();
+
+            Rectangle[] listRecs = new Rectangle[5];
+
+            listRecs[0] = new Rectangle(10, 15);
         }
     }
 
