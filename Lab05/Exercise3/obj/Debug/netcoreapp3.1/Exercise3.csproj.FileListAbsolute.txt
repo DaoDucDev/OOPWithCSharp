@@ -1,0 +1,13 @@
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.exe
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.deps.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.runtimeconfig.dev.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\bin\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csprojAssemblyReference.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfoInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.AssemblyInfo.cs
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\Lab05\Exercise3\obj\Debug\netcoreapp3.1\Exercise3.genruntimeconfig.cache
