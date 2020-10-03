@@ -2,6 +2,7 @@ using System;
 
 abstract class Employee: Person
 {
+    //Attribute or field
     private string department;
     private double salary;
     private DateTime hiredDate;

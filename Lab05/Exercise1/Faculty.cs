@@ -33,9 +33,9 @@ class Faculty : Employee
     {
         int yearsService = DateTime.Now.Year - getHiredDate().Year;
 
-        if(yearsService >= 3)
+        if (yearsService >= 3)
         {
-            if(getRank() == "Senior Lecture")
+            if (getRank() == "Senior Lecture")
             {
                 return 6;
             }

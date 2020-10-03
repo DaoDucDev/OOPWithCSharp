@@ -37,8 +37,7 @@ class Person
 
     public override string ToString()
     {
-        Person p = new Person();
-        string result = "Class name: " + p.GetType().ToString() + "\nPerson's name: " + p.name + "\nEmail: " + p.email;
+        string result = "Class name: " + this.GetType().ToString() + "\nPerson's name: " + name + "\nEmail: " + email;
         return result;
     }
 }

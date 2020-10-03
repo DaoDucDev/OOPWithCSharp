@@ -6,7 +6,11 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Person p = new Person();
+            //p.setName("Dao Van Duc");
+            //p.setEmail("ducdv1@vtc.edu.vn");
+
+            Console.WriteLine(DateTime.Now);
         }
     }
 }

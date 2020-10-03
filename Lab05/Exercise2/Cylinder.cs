@@ -11,7 +11,7 @@ class Cylinder: Circle
 
     public double getVolume()
     {
-        return height * getArea();
+        return height * base.getArea();
     }
 
     public new double getArea()

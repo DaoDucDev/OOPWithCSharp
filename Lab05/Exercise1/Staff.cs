@@ -22,7 +22,7 @@ class Staff : Employee
     {
         int yearsService = DateTime.Now.Year - getHiredDate().Year;
 
-        if(yearsService >= 5)
+        if (yearsService >= 5)
         {
             return 4;
         }
