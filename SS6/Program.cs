@@ -6,10 +6,10 @@ namespace SS6
     {
         static void Main(string[] args)
         {
-            Shape aShape = new Shape();
+            // Shape aShape = new Shape();
 
-            aShape.Color = "red";
-            Console.WriteLine(aShape.Color);
+            // aShape.Color = "red";
+            // Console.WriteLine(aShape.Color);
 
         }
     }
