@@ -1,0 +1,13 @@
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.exe
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.deps.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.runtimeconfig.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.runtimeconfig.dev.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\bin\Debug\netcoreapp3.1\SS8.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.csprojAssemblyReference.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.AssemblyInfoInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.AssemblyInfo.cs
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.csproj.CoreCompileInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\SS8\obj\Debug\netcoreapp3.1\SS8.genruntimeconfig.cache
