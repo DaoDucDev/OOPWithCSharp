@@ -28,7 +28,10 @@ namespace SS8
             //listStudents.Sort((x, y) => x.Name.CompareTo(y.Name));
 
             //Sắp xếp dùng IComparer
-            listStudents.Sort(new Student());
+            //listStudents.Sort(new Student());
+
+            //Sắp xếp dùng IComparable
+            listStudents.Sort();
             
             //Tim nguoi cao diem nhat
             listStudents.Max(std => std.MathScore);

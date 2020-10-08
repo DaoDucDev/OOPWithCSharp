@@ -8,17 +8,21 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nasa1\\.nuget\\packages\\": {}
+    "C:\\Users\\nasa1\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasa1\\Desktop\\OOPWithCSharp\\Demo\\OOPWithCSharp\\SS8\\SS8.csproj",
+      "projectUniqueName": "D:\\Teach\\C#\\Demo\\OOPWithCSharp\\SS8\\SS8.csproj",
       "projectName": "SS8",
-      "projectPath": "C:\\Users\\nasa1\\Desktop\\OOPWithCSharp\\Demo\\OOPWithCSharp\\SS8\\SS8.csproj",
+      "projectPath": "D:\\Teach\\C#\\Demo\\OOPWithCSharp\\SS8\\SS8.csproj",
       "packagesPath": "C:\\Users\\nasa1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasa1\\Desktop\\OOPWithCSharp\\Demo\\OOPWithCSharp\\SS8\\obj\\",
+      "outputPath": "D:\\Teach\\C#\\Demo\\OOPWithCSharp\\SS8\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\nasa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

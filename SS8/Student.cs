@@ -1,6 +1,8 @@
+using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 
-class Student: IComparer<Student>
+class Student: IComparer<Student>, IComparable<Student>
 {
     private int id;
     public int Id
@@ -43,4 +45,8 @@ class Student: IComparer<Student>
         return std1.Name.CompareTo(std2.Name);
     }
 
+    public int CompareTo([AllowNull] Student other)
+    {
+        return this.Name.CompareTo(other.Name);
+    }
 }
