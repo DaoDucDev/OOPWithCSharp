@@ -24,9 +24,12 @@ namespace SS8
             listStudents.Add(new Student(4, "Dao Van Z", 9.5));
             listStudents.Add(new Student(5, "Dao Van E", 7));
 
+            //Sắp xếp dùng Lambda Expression
+            //listStudents.Sort((x, y) => x.Name.CompareTo(y.Name));
 
-            listStudents.Sort((x, y) => x.Name.CompareTo(y.Name));
-
+            //Sắp xếp dùng IComparer
+            listStudents.Sort(new Student());
+            
             //Tim nguoi cao diem nhat
             listStudents.Max(std => std.MathScore);
 
