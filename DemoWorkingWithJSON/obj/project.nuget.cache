@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h39FfxK0OHxX/3WzaD1cQDK+6hZrHBFclAj8vWBnxelbhGqaKKB5OR1/sB2XG4wwQo6Ihm2D3ZSUmoZUgOG3Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasa1\\Desktop\\OOPWithCSharp\\Demo\\OOPWithCSharp\\DemoWorkingWithJSON\\DemoWorkingWithJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasa1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

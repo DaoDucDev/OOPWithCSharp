@@ -1,0 +1,15 @@
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.exe
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.deps.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.runtimeconfig.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.runtimeconfig.dev.json
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\DemoWorkingWithJSON.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.csprojAssemblyReference.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.AssemblyInfoInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.AssemblyInfo.cs
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.csproj.CoreCompileInputs.cache
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.csproj.CopyComplete
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.dll
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.pdb
+C:\Users\nasa1\Desktop\OOPWithCSharp\Demo\OOPWithCSharp\DemoWorkingWithJSON\obj\Debug\netcoreapp3.1\DemoWorkingWithJSON.genruntimeconfig.cache
