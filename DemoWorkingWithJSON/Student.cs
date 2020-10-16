@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 class Student
 {
     private string name;
@@ -20,6 +22,14 @@ class Student
         get { return address; }
         set { address = value; }
     }
+
+    private List<Subject> subjects;
+    public List<Subject> Subjects
+    {
+        get { return subjects; }
+        set { subjects = value; }
+    }
+    
 
     public Student() { }
     public Student(string _name, int _age, string _address)
