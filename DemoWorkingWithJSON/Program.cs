@@ -37,8 +37,7 @@ namespace DemoWorkingWithJSON
 
             wwf.WriteTextIntoFile("data.json", jsonText);
 
-            Student std = new Student();
-            std.Subjects[0] = new Subject();
+            
 
         }
     }
